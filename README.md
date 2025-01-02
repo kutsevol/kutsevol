@@ -19,3 +19,4 @@
 - 🏆 My Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kutsevol&theme=nord_bright)
+[![Artur Kutsevol profile views](https://u8views.com/api/v1/github/profiles/15254639/views/day-week-month-total-count.svg)](https://u8views.com/github/kutsevol)
